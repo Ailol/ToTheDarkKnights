@@ -2,7 +2,7 @@
 
 Friendly reminder:
 
-Visible → `<.html>`
+Visible → `<html>`
 Non-visible → `[C]`
 
 ---
