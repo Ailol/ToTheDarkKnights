@@ -16,3 +16,8 @@ Helpful hand on where the trail has ended for now :)
 ```
 
 These are all pheromones :) 
+
+
+
+Honorable mentions:
+psychoanalytics(they suck, cant do shit with it).
