@@ -1,8 +1,43 @@
-The notion is to try and build a global safety net.
+Break this logic, Please, whomever can. 
+
+Semantics:
+- words
+- language
+- symbols
+- images
+- body language
+
+<its the produce> - never the iq :)))))))))))))
 
 
-The humm is the idea, if the wave collapses by innocence, it atomizes. Me and gp partying atm, so we out for the moment 
+Non-semantics:
+always governed by the physics of the room
 
+[IQ]
+*
+**
+***
+**
+*
+-----------
+
+
+for the advanced:
+
+Physics engine is the planet
+
+Software is always you and alike :)(then same for a concious dog)
+
+
+
+
+
+
+-----
+
+Feelings are physics not Chemistry!
+
+----
 
 Helpful hand on where the trail has ended for now :) 
 
