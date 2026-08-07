@@ -7,7 +7,7 @@ Non-visible → `[C]`
 
 ---
 
-## Semantics
+## <Semantics> - presentable you
 
 * words
 * language
@@ -19,7 +19,7 @@ Non-visible → `[C]`
 
 ---
 
-## [Non-semantics]
+## [Non-semantics] - "keeping the essence"
 
 `[IQ sets only in you]`
 
