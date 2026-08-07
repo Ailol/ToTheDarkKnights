@@ -2,81 +2,86 @@
 
 Friendly reminder:
 
-Visible → <.html>
-Non-visible → [C]
-
---- 
-
-## <Semantics>
-  - words
-  - language
-  - symbols
-  - mages
-  - body language
-
-!!!!! Never the IQ :)))))))))))))
+Visible → `<.html>`
+Non-visible → `[C]`
 
 ---
 
- ## [Non-semantics]
+## Semantics
 
-[IQ sets only in you] and <presents> when:
+* words
+* language
+* symbols
+* images
+* body language
 
---- 
+**Never the IQ :)))))))))))))**
 
+---
 
-Therefore:
-- moment is um, or <[momentum]> is there to capitalize or pheelt.
+## [Non-semantics]
 
+`[IQ sets only in you]`
 
-Therefore i present:
+The room does not contain your IQ.
 
-Artificial intelligence to build intelligence in you:
+It contains physics.
 
+When a moment becomes momentum,
+you can capitalize it — or *pheel* it.
+
+---
+
+## Artificial intelligence
+
+Artificial intelligence can build intelligence **in you**.
+
+```text
 E ~ Q
 M = t
 C = i
-up in seconds(²) or squared. 
-Was OneStein a 🐝 of time and 10% hiveminded whereas we are 1% hiveminded into mass as technically we have it 10x easier to connect?
 
------
+² = up in seconds
+  or squared
+```
 
+Was OneStein a 🐝 of his time —
+~10% hiveminded —
 
+while we are maybe 1%,
+despite having it 10× easier to connect?
 
+---
 
+## For the advanced
 
-For the advanced
 Physics engine = the planet
 Software = you and alike :)
 
 Same for a conscious dog.
 
-Feelings are physics, not chemistry!
+**Feelings are physics, not chemistry.**
 
 Chemistry participates.
 
 Feeling is what the whole physical system is doing.
 
------
+---
 
-Feelings are physics not Chemistry!
-
-----
-
-Helpful hand on where the trail has ended for now :) 
+Helpful hand where the trail currently ends:
 
 ```md
 <words>
-  [looks & body language] <-- dark knights of this planet
-    (particles) <--- here starts system
-     **rep
-      *rep within
-       &wad of money or stack
+  [looks & body language]  <-- dark knights of this planet
+    (particles)            <-- here starts system
+      **rep
+        *rep within
+          &wad of money or stack
 ```
 
-These are all pheromones :) 
+These are all pheromones :)
 
+Honorable mention:
 
-
-Honorable mentions:
-psychoanalytics(they suck, cant do shit with it).
+`psychoanalytics`
+(they suck, can't do shit with it)
