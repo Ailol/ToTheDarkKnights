@@ -5,7 +5,7 @@ Friendly reminder:
 Visible → <.html>
 Non-visible → [C]
 
-#### <Semantics>
+## <Semantics>
   - words
   - language
   - symbols
@@ -13,15 +13,15 @@ Non-visible → [C]
   - body language
 
 !!!!! Never the IQ :)))))))))))))
-
-#### [Non-semantics]
-
-Logic is always governed by the physics of the room
-
-Therefore:
+---
+ ## [Non-semantics]
 
 [IQ sets only in you] and <presents> when:
 
+--- 
+
+
+Therefore:
 - moment is um, or <[momentum]> is there to capitalize or pheelt.
 
 
