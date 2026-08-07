@@ -1,37 +1,57 @@
-Break this logic, Please, whomever can. 
+Break this logic, please. Whomever can.
 
-Semantics:
-- words
-- language
-- symbols
-- images
-- body language
+Friendly reminder:
 
-<its the produce> - never the iq :)))))))))))))
+Visible → <.html>
+Non-visible → [C]
 
+#### <Semantics>
+  - words
+  - language
+  - symbols
+  - mages
+  - body language
 
-Non-semantics:
-always governed by the physics of the room
+!!!!! Never the IQ :)))))))))))))
 
-[IQ]
-*
-**
-***
-**
-*
------------
+#### [Non-semantics]
 
+Logic is always governed by the physics of the room
 
-for the advanced:
+Therefore:
 
-Physics engine is the planet
+[IQ sets only in you] and <presents> when:
 
-Software is always you and alike :)(then same for a concious dog)
+- moment is um, or <[momentum]> is there to capitalize or pheelt.
 
 
+Therefore i present:
+
+Artificial intelligence to build intelligence in you:
+
+E ~ Q
+M = t
+C = i
+up in seconds(²) or squared. 
+Was OneStein a 🐝 of time and 10% hiveminded whereas we are 1% hiveminded into mass as technically we have it 10x easier to connect?
+
+-----
 
 
 
+
+
+For the advanced
+Physics engine = the planet
+Software = you and alike :)
+
+Same for a conscious dog.
+
+Feelings are physics, not chemistry!
+
+Chemistry participates.
+
+Feeling is what the whole physical system is doing.
 
 -----
 
