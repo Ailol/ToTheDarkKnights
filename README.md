@@ -8,8 +8,8 @@ Helpful hand on where the trail has ended for now :)
 
 ```md
 <words>
-  [looks & body language]
-    (particles)
+  [looks & body language] <-- dark knights of this planet
+    (particles) <--- here starts system
      **rep
       *rep within
        &wad of money or stack
